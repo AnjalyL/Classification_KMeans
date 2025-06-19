@@ -68,7 +68,7 @@ The dataset includes multiple numerical features for each country:
 
 You can open this notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1kTJ1K7MS28wUx3nPf_GEA1EjZc7z3nsv/view?usp=sharing)
+https://drive.google.com/file/d/1kTJ1K7MS28wUx3nPf_GEA1EjZc7z3nsv/view?usp=sharing
 
 ---
 

@@ -1,7 +1,7 @@
 # Classification_KMeans
 K-Means clustering on European countries based on socio-economic indicators using Python
 
-# 🇪🇺 Clustering European Countries Using K-Means
+# Clustering European Countries Using K-Means
 
 This project uses the **K-Means clustering algorithm** to group European countries based on various socio-economic and demographic features such as GDP, population, birthrate, and deathrate.
 

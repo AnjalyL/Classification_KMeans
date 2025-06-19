@@ -78,7 +78,7 @@ Feel free to connect or reach out:
 
 **Author:** Anjaly Gopinath  
 📧 Email: anjalygopinath21@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/anjaly-gopinath-35045272) | 
+🔗 [LinkedIn](www.linkedin.com/in/anjaly-gopinath-35045272) | [Medium](https://medium.com/@anjalygopinath21/classifying-european-countries-using-k-means-clustering-with-python-496718bda469)
 
 ---
 
